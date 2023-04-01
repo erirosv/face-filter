@@ -1,4 +1,6 @@
-# face-filter
+# Face-Filter
+
+![Licence Version](https://img.shields.io/bower/l/MI) ![Python Version](https://img.shields.io/badge/Python-3.9-green)
 
 A simple prototype for a school assignment. This is not an active repo. Just a demo written in python. Using open CV and numpy. 
 
